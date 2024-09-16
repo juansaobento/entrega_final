@@ -2,6 +2,8 @@ import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
+##Funcion para envio de email
+
 def send_email(**context):
     subject = context["var"]["value"].get("subject_mail")
     from_address = context["var"]["value"].get("email")

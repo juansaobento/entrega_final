@@ -7,6 +7,7 @@ import os
 from dotenv import load_dotenv
 from build_dataframe import creacion_df
 
+##Funcion para conexion a redshift
 def conexion_RS():
     load_dotenv()
     REDSHIFT_USER=os.getenv('REDSHIFT_USER')

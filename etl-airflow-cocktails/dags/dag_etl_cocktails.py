@@ -3,10 +3,7 @@ from airflow import DAG
 from airflow.operators.python import PythonOperator
 import sys
 sys.path.append('/opt/airflow/dags/modules')
-from modules.obtencion_datos import llamado_api
-from modules.conect_rs import conexion_RS
-from modules.build_dataframe import creacion_df
-from modules.envio_mail import send_email
+from modules import llamado_api,conexion_RS,creacion_df,send_email
 from datetime import datetime, timedelta
 import requests 
 import json

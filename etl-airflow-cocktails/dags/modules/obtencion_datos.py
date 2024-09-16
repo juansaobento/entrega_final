@@ -6,6 +6,7 @@ import sqlalchemy as sa
 import os
 from dotenv import load_dotenv
 
+## Funcion para llamado de API
 def llamado_api():
     url= 'https://www.thecocktaildb.com/api/json/v1/1/random.php'
     response= requests.get(url).json()
