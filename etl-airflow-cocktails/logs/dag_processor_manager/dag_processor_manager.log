@@ -1,0 +1,1830 @@
+[2024-09-15T02:40:14.683+0000] {manager.py:486} INFO - Processing files using up to 2 processes at a time 
+[2024-09-15T02:40:14.686+0000] {manager.py:487} INFO - Process each file at most once every 30 seconds
+[2024-09-15T02:40:14.686+0000] {manager.py:488} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-09-15T02:40:14.687+0000] {manager.py:832} INFO - Searching for files in /opt/airflow/dags
+[2024-09-15T02:40:15.845+0000] {manager.py:835} INFO - There are 1 files in /opt/airflow/dags
+[2024-09-15T02:40:16.964+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run      Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  ----------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py     68  0.63s             0           0                                                   0
+================================================================================
+[2024-09-15T02:40:37.886+0000] {manager.py:468} INFO - Exiting gracefully upon receiving signal 15
+[2024-09-15T02:41:42.430+0000] {manager.py:486} INFO - Processing files using up to 2 processes at a time 
+[2024-09-15T02:41:42.432+0000] {manager.py:487} INFO - Process each file at most once every 30 seconds
+[2024-09-15T02:41:42.433+0000] {manager.py:488} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-09-15T02:41:42.435+0000] {manager.py:832} INFO - Searching for files in /opt/airflow/dags
+[2024-09-15T02:41:42.562+0000] {manager.py:835} INFO - There are 1 files in /opt/airflow/dags
+[2024-09-15T02:41:42.709+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run      Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  ----------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py     57  0.06s             0           0                                                   0
+================================================================================
+[2024-09-15T02:42:13.065+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py     65  0.01s             0           1  0.17s           2024-09-15T02:41:42                       5
+================================================================================
+[2024-09-15T02:42:43.663+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py     72  0.04s             0           1  0.21s           2024-09-15T02:42:13                       5
+================================================================================
+[2024-09-15T02:43:14.056+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.50s           2024-09-15T02:42:44                       5
+================================================================================
+[2024-09-15T02:43:44.985+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py     85  0.01s             0           1  0.12s           2024-09-15T02:43:14                       5
+================================================================================
+[2024-09-15T02:44:15.285+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py     92  0.01s             0           1  0.11s           2024-09-15T02:43:45                       5
+================================================================================
+[2024-09-15T02:44:45.710+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  5.23s           2024-09-15T02:44:20                       5
+================================================================================
+[2024-09-15T02:45:16.143+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.65s           2024-09-15T02:44:51                       5
+================================================================================
+[2024-09-15T02:45:46.346+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.47s           2024-09-15T02:45:22                       5
+================================================================================
+[2024-09-15T02:46:17.184+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.73s           2024-09-15T02:45:53                       5
+================================================================================
+[2024-09-15T02:46:42.530+0000] {manager.py:832} INFO - Searching for files in /opt/airflow/dags
+[2024-09-15T02:46:42.715+0000] {manager.py:835} INFO - There are 1 files in /opt/airflow/dags
+[2024-09-15T02:46:47.779+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.16s           2024-09-15T02:46:23                       5
+================================================================================
+[2024-09-15T02:47:18.147+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.14s           2024-09-15T02:47:12                       5
+================================================================================
+[2024-09-15T02:47:48.945+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.13s           2024-09-15T02:47:42                       5
+================================================================================
+[2024-09-15T02:48:19.262+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.12s           2024-09-15T02:48:13                       5
+================================================================================
+[2024-09-15T02:48:49.578+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.11s           2024-09-15T02:48:43                       5
+================================================================================
+[2024-09-15T02:49:19.874+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.13s           2024-09-15T02:49:13                       5
+================================================================================
+[2024-09-15T02:49:50.173+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.11s           2024-09-15T02:49:44                       5
+================================================================================
+[2024-09-15T02:50:20.455+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.11s           2024-09-15T02:50:14                       5
+================================================================================
+[2024-09-15T02:50:50.867+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.14s           2024-09-15T02:50:44                       5
+================================================================================
+[2024-09-15T02:51:21.161+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.12s           2024-09-15T02:51:10                       5
+================================================================================
+[2024-09-15T02:51:43.499+0000] {manager.py:832} INFO - Searching for files in /opt/airflow/dags
+[2024-09-15T02:51:43.722+0000] {manager.py:835} INFO - There are 1 files in /opt/airflow/dags
+[2024-09-15T02:51:51.838+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.14s           2024-09-15T02:51:40                       5
+================================================================================
+[2024-09-15T02:52:22.109+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.12s           2024-09-15T02:52:11                       5
+================================================================================
+[2024-09-15T02:52:52.423+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.13s           2024-09-15T02:52:41                       5
+================================================================================
+[2024-09-15T02:53:04.602+0000] {manager.py:468} INFO - Exiting gracefully upon receiving signal 15
+[2024-09-15T03:01:16.165+0000] {manager.py:486} INFO - Processing files using up to 2 processes at a time 
+[2024-09-15T03:01:16.167+0000] {manager.py:487} INFO - Process each file at most once every 30 seconds
+[2024-09-15T03:01:16.167+0000] {manager.py:488} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-09-15T03:01:16.174+0000] {manager.py:832} INFO - Searching for files in /opt/airflow/dags
+[2024-09-15T03:01:16.347+0000] {manager.py:835} INFO - There are 1 files in /opt/airflow/dags
+[2024-09-15T03:01:20.061+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run      Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  ----------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py     62  3.57s             0           0                                                   0
+================================================================================
+[2024-09-15T03:01:53.561+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py     70  0.05s             0           1  3.97s           2024-09-15T03:01:20                       5
+================================================================================
+[2024-09-15T03:02:24.221+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py     77  0.00s             0           1  0.43s           2024-09-15T03:01:53                       5
+================================================================================
+[2024-09-15T03:02:54.589+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py     84  0.00s             0           1  0.24s           2024-09-15T03:02:24                       5
+================================================================================
+[2024-09-15T03:03:25.106+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py     93  0.01s             0           1  0.12s           2024-09-15T03:02:54                       5
+================================================================================
+[2024-09-15T03:03:55.378+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py    100  0.00s             0           1  0.14s           2024-09-15T03:03:25                       5
+================================================================================
+[2024-09-15T03:04:25.741+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py    106  0.01s             0           1  0.10s           2024-09-15T03:03:55                       5
+================================================================================
+[2024-09-15T03:07:37.509+0000] {manager.py:486} INFO - Processing files using up to 2 processes at a time 
+[2024-09-15T03:07:37.510+0000] {manager.py:487} INFO - Process each file at most once every 30 seconds
+[2024-09-15T03:07:37.511+0000] {manager.py:488} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-09-15T03:07:37.512+0000] {manager.py:832} INFO - Searching for files in /opt/airflow/dags
+[2024-09-15T03:07:37.654+0000] {manager.py:835} INFO - There are 1 files in /opt/airflow/dags
+[2024-09-15T03:07:37.806+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run      Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  ----------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py     64  0.05s             0           0                                                   0
+================================================================================
+[2024-09-15T03:08:08.356+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py     71  0.05s             0           1  0.14s           2024-09-15T03:07:37                       5
+================================================================================
+[2024-09-15T03:08:38.525+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.62s           2024-09-15T03:08:08                       5
+================================================================================
+[2024-09-15T03:09:09.201+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.12s           2024-09-15T03:08:39                       5
+================================================================================
+[2024-09-15T03:09:39.474+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.13s           2024-09-15T03:09:10                       5
+================================================================================
+[2024-09-15T03:10:09.777+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.10s           2024-09-15T03:09:40                       5
+================================================================================
+[2024-09-15T03:10:40.019+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.09s           2024-09-15T03:10:10                       5
+================================================================================
+[2024-09-15T03:11:10.264+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  1.70s           2024-09-15T03:10:42                       5
+================================================================================
+[2024-09-15T03:11:40.581+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.68s           2024-09-15T03:11:13                       5
+================================================================================
+[2024-09-15T03:17:31.460+0000] {manager.py:486} INFO - Processing files using up to 2 processes at a time 
+[2024-09-15T03:17:31.462+0000] {manager.py:487} INFO - Process each file at most once every 30 seconds
+[2024-09-15T03:17:31.463+0000] {manager.py:488} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-09-15T03:17:31.465+0000] {manager.py:832} INFO - Searching for files in /opt/airflow/dags
+[2024-09-15T03:17:32.009+0000] {manager.py:835} INFO - There are 1 files in /opt/airflow/dags
+[2024-09-15T03:17:32.199+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run      Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  ----------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py     56  0.08s             0           0                                                   0
+================================================================================
+[2024-09-15T03:22:07.400+0000] {manager.py:486} INFO - Processing files using up to 2 processes at a time 
+[2024-09-15T03:22:07.402+0000] {manager.py:487} INFO - Process each file at most once every 30 seconds
+[2024-09-15T03:22:07.402+0000] {manager.py:488} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-09-15T03:22:07.403+0000] {manager.py:832} INFO - Searching for files in /opt/airflow/dags
+[2024-09-15T03:22:07.577+0000] {manager.py:835} INFO - There are 2 files in /opt/airflow/dags
+[2024-09-15T03:22:07.893+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run      Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  ----------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py     56  0.12s             0           0                                                   0
+/opt/airflow/dags/modules/__init__.py      55  0.21s             0           0                                                   0
+================================================================================
+[2024-09-15T03:22:38.409+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/modules/__init__.py      63  0.06s             0           1  0.25s           2024-09-15T03:22:07                       3
+/opt/airflow/dags/dag_etl_cocktails.py     64  0.02s             0           1  0.23s           2024-09-15T03:22:07                       5
+================================================================================
+[2024-09-15T03:23:11.387+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/modules/__init__.py                            0           1  3.75s           2024-09-15T03:22:42                       5
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  3.72s           2024-09-15T03:22:42                       5
+================================================================================
+[2024-09-15T03:23:12.377+0000] {manager.py:468} INFO - Exiting gracefully upon receiving signal 15
+[2024-09-15T03:24:35.203+0000] {manager.py:486} INFO - Processing files using up to 2 processes at a time 
+[2024-09-15T03:24:35.209+0000] {manager.py:487} INFO - Process each file at most once every 30 seconds
+[2024-09-15T03:24:35.218+0000] {manager.py:488} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-09-15T03:24:35.220+0000] {manager.py:832} INFO - Searching for files in /opt/airflow/dags
+[2024-09-15T03:24:35.821+0000] {manager.py:835} INFO - There are 2 files in /opt/airflow/dags
+[2024-09-15T03:24:36.888+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run      Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  ----------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py     61  0.19s             0           0                                                   0
+/opt/airflow/dags/modules/__init__.py      60  0.59s             0           0                                                   0
+================================================================================
+[2024-09-15T03:25:07.408+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/modules/__init__.py      68  0.07s             0           1  0.62s           2024-09-15T03:24:36                       5
+/opt/airflow/dags/dag_etl_cocktails.py     69  0.03s             0           1  0.35s           2024-09-15T03:24:37                       5
+================================================================================
+[2024-09-15T03:25:38.209+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/modules/__init__.py      75  0.48s             0           1  0.22s           2024-09-15T03:25:07                       5
+/opt/airflow/dags/dag_etl_cocktails.py     76  0.06s             0           1  0.19s           2024-09-15T03:25:07                       5
+================================================================================
+[2024-09-15T03:26:10.357+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/modules/__init__.py                            0           1  1.67s           2024-09-15T03:25:39                       5
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  1.21s           2024-09-15T03:25:39                       5
+================================================================================
+[2024-09-15T03:26:41.077+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.26s           2024-09-15T03:26:10                       5
+/opt/airflow/dags/modules/__init__.py                            0           1  0.25s           2024-09-15T03:26:10                       5
+================================================================================
+[2024-09-15T03:27:11.763+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.96s           2024-09-15T03:26:42                       5
+/opt/airflow/dags/modules/__init__.py                            0           1  0.95s           2024-09-15T03:26:42                       5
+================================================================================
+[2024-09-15T03:27:42.326+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.08s           2024-09-15T03:27:12                       5
+/opt/airflow/dags/modules/__init__.py                            0           1  0.08s           2024-09-15T03:27:12                       5
+================================================================================
+[2024-09-15T03:28:12.526+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.10s           2024-09-15T03:27:43                       5
+/opt/airflow/dags/modules/__init__.py                            0           1  0.09s           2024-09-15T03:27:43                       5
+================================================================================
+[2024-09-15T03:28:42.940+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.10s           2024-09-15T03:28:13                       5
+/opt/airflow/dags/modules/__init__.py                            0           1  0.10s           2024-09-15T03:28:13                       5
+================================================================================
+[2024-09-15T03:29:13.395+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/modules/__init__.py                            0           1  0.08s           2024-09-15T03:28:44                       5
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.08s           2024-09-15T03:28:44                       5
+================================================================================
+[2024-09-15T03:29:35.787+0000] {manager.py:832} INFO - Searching for files in /opt/airflow/dags
+[2024-09-15T03:29:36.292+0000] {manager.py:835} INFO - There are 2 files in /opt/airflow/dags
+[2024-09-15T03:29:43.434+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.16s           2024-09-15T03:29:14                       5
+/opt/airflow/dags/modules/__init__.py                            0           1  0.07s           2024-09-15T03:29:14                       5
+================================================================================
+[2024-09-15T03:30:13.996+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/modules/__init__.py                            0           1  0.13s           2024-09-15T03:29:45                       5
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.12s           2024-09-15T03:29:45                       5
+================================================================================
+[2024-09-15T03:30:44.419+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.09s           2024-09-15T03:30:16                       5
+/opt/airflow/dags/modules/__init__.py                            0           1  0.08s           2024-09-15T03:30:16                       5
+================================================================================
+[2024-09-15T03:31:14.837+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/modules/__init__.py                            0           1  0.10s           2024-09-15T03:30:46                       5
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.09s           2024-09-15T03:30:46                       5
+================================================================================
+[2024-09-15T03:31:45.325+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.09s           2024-09-15T03:31:16                       5
+/opt/airflow/dags/modules/__init__.py                            0           1  0.09s           2024-09-15T03:31:16                       5
+================================================================================
+[2024-09-15T03:32:15.739+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/modules/__init__.py                            0           1  0.07s           2024-09-15T03:31:47                       5
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.07s           2024-09-15T03:31:47                       5
+================================================================================
+[2024-09-15T03:32:46.163+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.09s           2024-09-15T03:32:17                       5
+/opt/airflow/dags/modules/__init__.py                            0           1  0.09s           2024-09-15T03:32:17                       5
+================================================================================
+[2024-09-15T03:33:16.617+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/modules/__init__.py                            0           1  0.09s           2024-09-15T03:32:48                       5
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.09s           2024-09-15T03:32:48                       5
+================================================================================
+[2024-09-15T03:33:47.015+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/modules/__init__.py                            0           1  0.14s           2024-09-15T03:33:18                       5
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.14s           2024-09-15T03:33:18                       5
+================================================================================
+[2024-09-15T03:34:17.412+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/modules/__init__.py                            0           1  0.09s           2024-09-15T03:33:49                       5
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.08s           2024-09-15T03:33:49                       5
+================================================================================
+[2024-09-15T03:34:36.653+0000] {manager.py:832} INFO - Searching for files in /opt/airflow/dags
+[2024-09-15T03:34:36.756+0000] {manager.py:835} INFO - There are 2 files in /opt/airflow/dags
+[2024-09-15T03:34:47.891+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.07s           2024-09-15T03:34:19                       5
+/opt/airflow/dags/modules/__init__.py                            0           1  0.07s           2024-09-15T03:34:19                       5
+================================================================================
+[2024-09-15T03:35:13.515+0000] {manager.py:468} INFO - Exiting gracefully upon receiving signal 15
+[2024-09-15T03:37:11.062+0000] {manager.py:486} INFO - Processing files using up to 2 processes at a time 
+[2024-09-15T03:37:11.063+0000] {manager.py:487} INFO - Process each file at most once every 30 seconds
+[2024-09-15T03:37:11.064+0000] {manager.py:488} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-09-15T03:37:11.065+0000] {manager.py:832} INFO - Searching for files in /opt/airflow/dags
+[2024-09-15T03:37:11.066+0000] {manager.py:835} INFO - There are 0 files in /opt/airflow/dags
+[2024-09-15T03:41:43.745+0000] {manager.py:468} INFO - Exiting gracefully upon receiving signal 15
+[2024-09-15T03:43:28.267+0000] {manager.py:486} INFO - Processing files using up to 2 processes at a time 
+[2024-09-15T03:43:28.268+0000] {manager.py:487} INFO - Process each file at most once every 30 seconds
+[2024-09-15T03:43:28.269+0000] {manager.py:488} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-09-15T03:43:28.274+0000] {manager.py:832} INFO - Searching for files in /opt/airflow/dags
+[2024-09-15T03:43:28.289+0000] {manager.py:835} INFO - There are 0 files in /opt/airflow/dags
+[2024-09-15T03:46:14.856+0000] {manager.py:468} INFO - Exiting gracefully upon receiving signal 15
+[2024-09-15T03:48:01.027+0000] {manager.py:486} INFO - Processing files using up to 2 processes at a time 
+[2024-09-15T03:48:01.028+0000] {manager.py:487} INFO - Process each file at most once every 30 seconds
+[2024-09-15T03:48:01.029+0000] {manager.py:488} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-09-15T03:48:01.029+0000] {manager.py:832} INFO - Searching for files in /opt/airflow/dags
+[2024-09-15T03:48:01.267+0000] {manager.py:835} INFO - There are 2 files in /opt/airflow/dags
+[2024-09-15T03:48:01.391+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run      Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  ----------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py     63  0.03s             0           0                                                   0
+/opt/airflow/dags/modules/__init__.py      62  0.06s             0           0                                                   0
+================================================================================
+[2024-09-15T03:48:31.813+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/modules/__init__.py                            0           1  16.18s          2024-09-15T03:48:17                       3
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  16.13s          2024-09-15T03:48:17                       3
+================================================================================
+[2024-09-15T03:49:01.428+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/modules/__init__.py                            0           1  1.41s           2024-09-15T03:48:49                       5
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  1.38s           2024-09-15T03:48:49                       5
+================================================================================
+[2024-09-15T03:49:07.689+0000] {manager.py:468} INFO - Exiting gracefully upon receiving signal 15
+[2024-09-15T03:50:53.534+0000] {manager.py:486} INFO - Processing files using up to 2 processes at a time 
+[2024-09-15T03:50:53.536+0000] {manager.py:487} INFO - Process each file at most once every 30 seconds
+[2024-09-15T03:50:53.537+0000] {manager.py:488} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-09-15T03:50:53.538+0000] {manager.py:832} INFO - Searching for files in /opt/airflow/dags
+[2024-09-15T03:50:53.541+0000] {manager.py:835} INFO - There are 0 files in /opt/airflow/dags
+[2024-09-15T12:58:46.634+0000] {manager.py:832} INFO - Searching for files in /opt/airflow/dags
+[2024-09-15T12:58:47.060+0000] {manager.py:835} INFO - There are 0 files in /opt/airflow/dags
+[2024-09-15T12:59:20.838+0000] {manager.py:468} INFO - Exiting gracefully upon receiving signal 15
+[2024-09-15T23:27:39.244+0000] {manager.py:486} INFO - Processing files using up to 2 processes at a time 
+[2024-09-15T23:27:39.246+0000] {manager.py:487} INFO - Process each file at most once every 30 seconds
+[2024-09-15T23:27:39.246+0000] {manager.py:488} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-09-15T23:27:39.249+0000] {manager.py:832} INFO - Searching for files in /opt/airflow/dags
+[2024-09-15T23:27:39.520+0000] {manager.py:835} INFO - There are 2 files in /opt/airflow/dags
+[2024-09-15T23:27:40.004+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run      Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  ----------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py     55  0.27s             0           0                                                   0
+/opt/airflow/dags/modules/__init__.py      54  0.38s             0           0                                                   0
+================================================================================
+[2024-09-15T23:28:10.291+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/modules/__init__.py                            0           1  0.54s           2024-09-15T23:27:40                       3
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.48s           2024-09-15T23:27:40                       3
+================================================================================
+[2024-09-15T23:28:40.795+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/modules/__init__.py                            0           1  0.24s           2024-09-15T23:28:11                       5
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.20s           2024-09-15T23:28:11                       5
+================================================================================
+[2024-09-15T23:29:10.985+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/modules/__init__.py                            0           1  0.11s           2024-09-15T23:28:41                       5
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.10s           2024-09-15T23:28:41                       5
+================================================================================
+[2024-09-15T23:29:29.319+0000] {manager.py:1302} WARNING - Skipping processing of missing file: /opt/airflow/dags/modules/__init__.py
+[2024-09-15T23:29:41.446+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.10s           2024-09-15T23:29:12                       5
+================================================================================
+[2024-09-15T23:30:11.739+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.11s           2024-09-15T23:29:42                       5
+================================================================================
+[2024-09-15T23:30:21.712+0000] {manager.py:468} INFO - Exiting gracefully upon receiving signal 15
+[2024-09-15T23:32:10.243+0000] {manager.py:486} INFO - Processing files using up to 2 processes at a time 
+[2024-09-15T23:32:10.245+0000] {manager.py:487} INFO - Process each file at most once every 30 seconds
+[2024-09-15T23:32:10.246+0000] {manager.py:488} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-09-15T23:32:10.247+0000] {manager.py:832} INFO - Searching for files in /opt/airflow/dags
+[2024-09-15T23:32:10.315+0000] {manager.py:835} INFO - There are 2 files in /opt/airflow/dags
+[2024-09-15T23:32:10.479+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run      Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  ----------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py     64  0.05s             0           0                                                   0
+/opt/airflow/dags/__init__.py              63  0.10s             0           0                                                   0
+================================================================================
+[2024-09-15T23:32:41.246+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/__init__.py                                    0           0  4.28s           2024-09-15T23:32:14                       3
+/opt/airflow/dags/dag_etl_cocktails.py     72  0.04s             0           1  0.20s           2024-09-15T23:32:10                       5
+================================================================================
+[2024-09-15T23:33:11.979+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/__init__.py                                    0           0  3.66s           2024-09-15T23:32:48                       3
+/opt/airflow/dags/dag_etl_cocktails.py     80  0.00s             0           1  0.49s           2024-09-15T23:32:41                       5
+================================================================================
+[2024-09-15T23:33:42.030+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/__init__.py                                    0           0  0.62s           2024-09-15T23:33:19                       3
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.09s           2024-09-15T23:33:12                       5
+================================================================================
+[2024-09-15T23:34:12.129+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/__init__.py                                    0           0  0.68s           2024-09-15T23:33:50                       3
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.11s           2024-09-15T23:33:43                       5
+================================================================================
+[2024-09-15T23:34:42.230+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/__init__.py                                    0           0  7.43s           2024-09-15T23:34:29                       3
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.20s           2024-09-15T23:34:13                       5
+================================================================================
+[2024-09-15T23:35:12.380+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/__init__.py                                    0           0  1.09s           2024-09-15T23:35:00                       3
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.65s           2024-09-15T23:35:09                       5
+================================================================================
+[2024-09-15T23:35:34.460+0000] {manager.py:468} INFO - Exiting gracefully upon receiving signal 15
+[2024-09-15T23:35:34.511+0000] {manager.py:468} INFO - Exiting gracefully upon receiving signal 15
+[2024-09-15T23:35:35.291+0000] {manager.py:468} INFO - Exiting gracefully upon receiving signal 15
+[2024-09-15T23:38:06.695+0000] {manager.py:486} INFO - Processing files using up to 2 processes at a time 
+[2024-09-15T23:38:06.696+0000] {manager.py:487} INFO - Process each file at most once every 30 seconds
+[2024-09-15T23:38:06.697+0000] {manager.py:488} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-09-15T23:38:06.698+0000] {manager.py:832} INFO - Searching for files in /opt/airflow/dags
+[2024-09-15T23:38:06.867+0000] {manager.py:835} INFO - There are 2 files in /opt/airflow/dags
+[2024-09-15T23:38:08.433+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run      Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  ----------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py     62  1.35s             0           0                                                   0
+/opt/airflow/dags/__init__.py              63  1.31s             0           0                                                   0
+================================================================================
+[2024-09-15T23:38:40.122+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  5.67s           2024-09-15T23:38:12                       5
+/opt/airflow/dags/__init__.py                                    0           0  5.61s           2024-09-15T23:38:12                       3
+================================================================================
+[2024-09-15T23:39:10.647+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  6.18s           2024-09-15T23:38:50                       5
+/opt/airflow/dags/__init__.py                                    0           0  5.97s           2024-09-15T23:38:50                       3
+================================================================================
+[2024-09-15T23:39:40.932+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  1.92s           2024-09-15T23:39:22                       5
+/opt/airflow/dags/__init__.py                                    0           0  1.88s           2024-09-15T23:39:22                       3
+================================================================================
+[2024-09-15T23:40:11.009+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.75s           2024-09-15T23:39:53                       5
+/opt/airflow/dags/__init__.py                                    0           0  0.70s           2024-09-15T23:39:53                       3
+================================================================================
+[2024-09-15T23:40:41.871+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.53s           2024-09-15T23:40:24                       5
+/opt/airflow/dags/__init__.py                                    0           0  0.49s           2024-09-15T23:40:24                       3
+================================================================================
+[2024-09-15T23:41:12.357+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  0.95s           2024-09-15T23:40:54                      41
+/opt/airflow/dags/__init__.py                                    0           0  0.53s           2024-09-15T23:40:55                       3
+================================================================================
+[2024-09-15T23:41:44.135+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py    127  16.67s            1           0  0.95s           2024-09-15T23:40:54                      41
+/opt/airflow/dags/__init__.py             128  15.20s            0           0  0.53s           2024-09-15T23:40:55                       3
+================================================================================
+[2024-09-15T23:42:14.983+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  22.19s          2024-09-15T23:41:47                      12
+/opt/airflow/dags/__init__.py                                    0           0  20.06s          2024-09-15T23:41:47                       3
+================================================================================
+[2024-09-15T23:42:45.878+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py    143  21.59s            1           0  22.19s          2024-09-15T23:41:47                      12
+/opt/airflow/dags/__init__.py             144  11.01s            0           0  20.06s          2024-09-15T23:41:47                       3
+================================================================================
+[2024-09-15T23:43:06.921+0000] {manager.py:832} INFO - Searching for files in /opt/airflow/dags
+[2024-09-15T23:43:07.252+0000] {manager.py:835} INFO - There are 2 files in /opt/airflow/dags
+[2024-09-15T23:43:18.603+0000] {manager.py:1377} ERROR - Processor for /opt/airflow/dags/dag_etl_cocktails.py with PID 143 started at 2024-09-15T23:42:24.287913+00:00 has timed out, killing it.
+[2024-09-15T23:43:19.603+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  54.32s          2024-09-15T23:43:18                       0
+/opt/airflow/dags/__init__.py             144  44.72s            0           0  20.06s          2024-09-15T23:41:47                       3
+================================================================================
+[2024-09-15T23:43:25.940+0000] {manager.py:1377} ERROR - Processor for /opt/airflow/dags/__init__.py with PID 144 started at 2024-09-15T23:42:34.863336+00:00 has timed out, killing it.
+[2024-09-15T23:43:50.607+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py    158  1.09s             0           1  54.32s          2024-09-15T23:43:18                       0
+/opt/airflow/dags/__init__.py                                    0           1  51.08s          2024-09-15T23:43:25                       0
+================================================================================
+[2024-09-15T23:44:21.088+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py    158  31.63s            0           1  54.32s          2024-09-15T23:43:18                       0
+/opt/airflow/dags/__init__.py             166  23.70s            0           1  51.08s          2024-09-15T23:43:25                       0
+================================================================================
+[2024-09-15T23:44:39.838+0000] {manager.py:1377} ERROR - Processor for /opt/airflow/dags/dag_etl_cocktails.py with PID 158 started at 2024-09-15T23:43:49.434620+00:00 has timed out, killing it.
+[2024-09-15T23:44:47.499+0000] {manager.py:1377} ERROR - Processor for /opt/airflow/dags/__init__.py with PID 166 started at 2024-09-15T23:43:57.361652+00:00 has timed out, killing it.
+[2024-09-15T23:44:57.707+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  50.40s          2024-09-15T23:44:39                       0
+/opt/airflow/dags/__init__.py                                    0           1  50.13s          2024-09-15T23:44:47                       0
+================================================================================
+[2024-09-15T23:45:27.832+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/__init__.py             183  9.67s             0           1  50.13s          2024-09-15T23:44:47                       0
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  15.93s          2024-09-15T23:45:26                      34
+================================================================================
+[2024-09-15T23:46:04.541+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py    197  6.97s             1           0  15.93s          2024-09-15T23:45:26                      34
+/opt/airflow/dags/__init__.py             198  0.06s             0           0  10.70s          2024-09-15T23:45:28                       3
+================================================================================
+[2024-09-15T23:46:40.929+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py    197  43.47s            1           0  15.93s          2024-09-15T23:45:26                      34
+/opt/airflow/dags/__init__.py             198  36.56s            0           0  10.70s          2024-09-15T23:45:28                       3
+================================================================================
+[2024-09-15T23:47:12.306+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  49.16s          2024-09-15T23:46:46                      12
+/opt/airflow/dags/__init__.py                                    0           0  41.79s          2024-09-15T23:46:46                       3
+================================================================================
+[2024-09-15T23:47:42.775+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  21.58s          2024-09-15T23:47:38                      12
+/opt/airflow/dags/__init__.py                                    0           0  21.46s          2024-09-15T23:47:37                       3
+================================================================================
+[2024-09-15T23:48:06.940+0000] {manager.py:832} INFO - Searching for files in /opt/airflow/dags
+[2024-09-15T23:48:07.082+0000] {manager.py:835} INFO - There are 2 files in /opt/airflow/dags
+[2024-09-15T23:48:12.931+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py    236  4.08s             1           0  21.58s          2024-09-15T23:47:38                      12
+/opt/airflow/dags/__init__.py             235  4.62s             0           0  21.46s          2024-09-15T23:47:37                       3
+================================================================================
+[2024-09-15T23:48:45.642+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/__init__.py                                    0           0  21.18s          2024-09-15T23:48:29                       3
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  21.10s          2024-09-15T23:48:29                      12
+================================================================================
+[2024-09-15T23:49:16.393+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  9.39s           2024-09-15T23:49:09                      36
+/opt/airflow/dags/__init__.py                                    0           0  8.90s           2024-09-15T23:49:09                       3
+================================================================================
+[2024-09-15T23:49:48.022+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  3.81s           2024-09-15T23:49:43                      12
+/opt/airflow/dags/__init__.py                                    0           0  3.47s           2024-09-15T23:49:43                       3
+================================================================================
+[2024-09-15T23:50:18.988+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  0.68s           2024-09-15T23:50:14                      12
+/opt/airflow/dags/__init__.py                                    0           0  0.61s           2024-09-15T23:50:14                       3
+================================================================================
+[2024-09-15T23:50:49.081+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  2.82s           2024-09-15T23:50:48                      12
+/opt/airflow/dags/__init__.py                                    0           0  2.74s           2024-09-15T23:50:48                       3
+================================================================================
+[2024-09-15T23:51:20.000+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  0.75s           2024-09-15T23:51:19                      12
+/opt/airflow/dags/__init__.py                                    0           0  0.67s           2024-09-15T23:51:18                       3
+================================================================================
+[2024-09-15T23:51:50.130+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py    310  0.74s             1           0  0.75s           2024-09-15T23:51:19                      12
+/opt/airflow/dags/__init__.py                                    0           0  0.71s           2024-09-15T23:51:50                       3
+================================================================================
+[2024-09-15T23:52:20.456+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py    329  0.08s             1           0  0.80s           2024-09-15T23:51:50                      12
+/opt/airflow/dags/__init__.py             330  0.05s             0           0  0.71s           2024-09-15T23:51:50                       3
+================================================================================
+[2024-09-15T23:52:40.974+0000] {manager.py:468} INFO - Exiting gracefully upon receiving signal 15
+[2024-09-15T23:55:03.456+0000] {manager.py:486} INFO - Processing files using up to 2 processes at a time 
+[2024-09-15T23:55:03.457+0000] {manager.py:487} INFO - Process each file at most once every 30 seconds
+[2024-09-15T23:55:03.458+0000] {manager.py:488} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-09-15T23:55:03.459+0000] {manager.py:832} INFO - Searching for files in /opt/airflow/dags
+[2024-09-15T23:55:03.554+0000] {manager.py:835} INFO - There are 2 files in /opt/airflow/dags
+[2024-09-15T23:55:03.798+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run      Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  ----------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py     62  0.10s             0           0                                                   0
+/opt/airflow/dags/__init__.py              63  0.05s             0           0                                                   0
+================================================================================
+[2024-09-15T23:55:34.010+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  13.91s          2024-09-15T23:55:17                      12
+/opt/airflow/dags/__init__.py                                    0           0  13.69s          2024-09-15T23:55:17                       3
+================================================================================
+[2024-09-15T23:56:04.513+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  1.67s           2024-09-15T23:55:49                      12
+/opt/airflow/dags/__init__.py                                    0           0  1.56s           2024-09-15T23:55:49                       3
+================================================================================
+[2024-09-15T23:56:34.803+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/__init__.py                                    0           0  0.72s           2024-09-15T23:56:22                       3
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  0.63s           2024-09-15T23:56:31                      12
+================================================================================
+[2024-09-15T23:57:04.934+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  2.18s           2024-09-15T23:56:38                      12
+/opt/airflow/dags/__init__.py                                    0           0  0.68s           2024-09-15T23:56:52                       3
+================================================================================
+[2024-09-15T23:57:35.584+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/__init__.py                                    0           0  6.75s           2024-09-15T23:57:29                       3
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  1.09s           2024-09-15T23:57:09                      12
+================================================================================
+[2024-09-15T23:57:50.194+0000] {manager.py:468} INFO - Exiting gracefully upon receiving signal 15
+[2024-09-16T00:00:54.951+0000] {manager.py:486} INFO - Processing files using up to 2 processes at a time 
+[2024-09-16T00:00:54.957+0000] {manager.py:487} INFO - Process each file at most once every 30 seconds
+[2024-09-16T00:00:54.958+0000] {manager.py:488} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-09-16T00:00:54.959+0000] {manager.py:832} INFO - Searching for files in /opt/airflow/dags
+[2024-09-16T00:00:55.271+0000] {manager.py:835} INFO - There are 2 files in /opt/airflow/dags
+[2024-09-16T00:00:55.684+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run      Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  ----------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py     63  0.22s             0           0                                                   0
+/opt/airflow/dags/__init__.py              64  0.16s             0           0                                                   0
+================================================================================
+[2024-09-16T00:01:25.846+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  21.64s          2024-09-16T00:01:17                      12
+/opt/airflow/dags/__init__.py                                    0           0  20.95s          2024-09-16T00:01:16                       3
+================================================================================
+[2024-09-16T00:01:56.678+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/__init__.py                                    0           0  1.59s           2024-09-16T00:01:48                       3
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  1.29s           2024-09-16T00:01:48                      12
+================================================================================
+[2024-09-16T00:02:26.850+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/__init__.py                                    0           0  4.04s           2024-09-16T00:02:22                       3
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  0.90s           2024-09-16T00:02:04                      12
+================================================================================
+[2024-09-16T00:02:56.886+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  0.76s           2024-09-16T00:02:35                      12
+/opt/airflow/dags/__init__.py                                    0           0  0.50s           2024-09-16T00:02:53                       3
+================================================================================
+[2024-09-16T00:03:27.021+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/__init__.py                                    0           0  0.72s           2024-09-16T00:03:24                       3
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  0.69s           2024-09-16T00:03:06                      12
+================================================================================
+[2024-09-16T00:03:57.602+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  0.60s           2024-09-16T00:03:37                      12
+/opt/airflow/dags/__init__.py                                    0           0  0.58s           2024-09-16T00:03:55                       3
+================================================================================
+[2024-09-16T00:04:28.959+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py    159  20.03s            1           0  0.60s           2024-09-16T00:03:37                      12
+/opt/airflow/dags/__init__.py             161  0.03s             0           0  0.58s           2024-09-16T00:03:55                       3
+================================================================================
+[2024-09-16T00:05:02.573+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  35.01s          2024-09-16T00:04:43                      12
+/opt/airflow/dags/__init__.py                                    0           0  14.72s          2024-09-16T00:04:43                       3
+================================================================================
+[2024-09-16T00:05:33.115+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py    179  18.84s            1           0  35.01s          2024-09-16T00:04:43                      12
+/opt/airflow/dags/__init__.py             180  18.78s            0           0  14.72s          2024-09-16T00:04:43                       3
+================================================================================
+[2024-09-16T00:05:55.769+0000] {manager.py:832} INFO - Searching for files in /opt/airflow/dags
+[2024-09-16T00:05:55.982+0000] {manager.py:835} INFO - There are 2 files in /opt/airflow/dags
+[2024-09-16T00:06:03.302+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  34.93s          2024-09-16T00:05:49                      12
+/opt/airflow/dags/__init__.py                                    0           0  34.82s          2024-09-16T00:05:49                       3
+================================================================================
+[2024-09-16T00:06:34.153+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  5.24s           2024-09-16T00:06:24                      12
+/opt/airflow/dags/__init__.py                                    0           0  5.14s           2024-09-16T00:06:24                       3
+================================================================================
+[2024-09-16T00:07:04.167+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  0.62s           2024-09-16T00:06:56                      12
+/opt/airflow/dags/__init__.py                                    0           0  0.56s           2024-09-16T00:06:56                       3
+================================================================================
+[2024-09-16T00:07:35.052+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  0.62s           2024-09-16T00:07:27                      12
+/opt/airflow/dags/__init__.py                                    0           0  0.55s           2024-09-16T00:07:26                       3
+================================================================================
+[2024-09-16T00:08:05.140+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  0.61s           2024-09-16T00:07:58                      12
+/opt/airflow/dags/__init__.py                                    0           0  0.54s           2024-09-16T00:07:58                       3
+================================================================================
+[2024-09-16T00:08:35.724+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  1.15s           2024-09-16T00:08:29                      12
+/opt/airflow/dags/__init__.py                                    0           0  1.05s           2024-09-16T00:08:29                       3
+================================================================================
+[2024-09-16T00:09:06.283+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  1.14s           2024-09-16T00:09:01                      12
+/opt/airflow/dags/__init__.py                                    0           0  0.98s           2024-09-16T00:09:01                       3
+================================================================================
+[2024-09-16T00:09:36.725+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  1.01s           2024-09-16T00:09:32                      12
+/opt/airflow/dags/__init__.py                                    0           0  0.87s           2024-09-16T00:09:32                       3
+================================================================================
+[2024-09-16T00:10:07.534+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  1.21s           2024-09-16T00:10:04                      12
+/opt/airflow/dags/__init__.py                                    0           0  1.07s           2024-09-16T00:10:04                       3
+================================================================================
+[2024-09-16T00:10:38.203+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  1.25s           2024-09-16T00:10:36                      12
+/opt/airflow/dags/__init__.py                                    0           0  1.11s           2024-09-16T00:10:36                       3
+================================================================================
+[2024-09-16T00:10:56.462+0000] {manager.py:832} INFO - Searching for files in /opt/airflow/dags
+[2024-09-16T00:10:56.726+0000] {manager.py:835} INFO - There are 2 files in /opt/airflow/dags
+[2024-09-16T00:11:08.209+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  1.29s           2024-09-16T00:11:08                      12
+/opt/airflow/dags/__init__.py                                    0           0  1.22s           2024-09-16T00:11:08                       3
+================================================================================
+[2024-09-16T00:11:38.660+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py    336  0.04s             1           0  1.29s           2024-09-16T00:11:08                      12
+/opt/airflow/dags/__init__.py             337  0.01s             0           0  1.22s           2024-09-16T00:11:08                       3
+================================================================================
+[2024-09-16T00:12:09.207+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  1.08s           2024-09-16T00:11:39                      12
+/opt/airflow/dags/__init__.py                                    0           0  0.97s           2024-09-16T00:11:39                       3
+================================================================================
+[2024-09-16T00:12:39.588+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  1.99s           2024-09-16T00:12:12                      12
+/opt/airflow/dags/__init__.py                                    0           0  1.86s           2024-09-16T00:12:12                       3
+================================================================================
+[2024-09-16T00:13:09.671+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  1.32s           2024-09-16T00:12:43                      12
+/opt/airflow/dags/__init__.py                                    0           0  1.17s           2024-09-16T00:12:43                       3
+================================================================================
+[2024-09-16T00:13:40.329+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  1.29s           2024-09-16T00:13:16                      12
+/opt/airflow/dags/__init__.py                                    0           0  1.12s           2024-09-16T00:13:15                       3
+================================================================================
+[2024-09-16T00:14:10.859+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  1.02s           2024-09-16T00:13:47                      12
+/opt/airflow/dags/__init__.py                                    0           0  0.86s           2024-09-16T00:13:47                       3
+================================================================================
+[2024-09-16T00:14:41.454+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  1.11s           2024-09-16T00:14:19                      12
+/opt/airflow/dags/__init__.py                                    0           0  0.99s           2024-09-16T00:14:19                       3
+================================================================================
+[2024-09-16T00:15:12.139+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  1.24s           2024-09-16T00:14:50                      12
+/opt/airflow/dags/__init__.py                                    0           0  1.06s           2024-09-16T00:14:50                       3
+================================================================================
+[2024-09-16T00:15:43.029+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  1.31s           2024-09-16T00:15:22                      12
+/opt/airflow/dags/__init__.py                                    0           0  1.18s           2024-09-16T00:15:22                       3
+================================================================================
+[2024-09-16T00:15:57.229+0000] {manager.py:832} INFO - Searching for files in /opt/airflow/dags
+[2024-09-16T00:15:57.475+0000] {manager.py:835} INFO - There are 2 files in /opt/airflow/dags
+[2024-09-16T00:16:13.815+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  1.05s           2024-09-16T00:15:54                      12
+/opt/airflow/dags/__init__.py                                    0           0  0.91s           2024-09-16T00:15:54                       3
+================================================================================
+[2024-09-16T00:16:44.382+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  1.19s           2024-09-16T00:16:26                      12
+/opt/airflow/dags/__init__.py                                    0           0  0.92s           2024-09-16T00:16:25                       3
+================================================================================
+[2024-09-16T00:17:15.343+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  1.48s           2024-09-16T00:16:58                      12
+/opt/airflow/dags/__init__.py                                    0           0  1.40s           2024-09-16T00:16:58                       3
+================================================================================
+[2024-09-16T00:17:46.039+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  1.17s           2024-09-16T00:17:29                      12
+/opt/airflow/dags/__init__.py                                    0           0  1.06s           2024-09-16T00:17:29                       3
+================================================================================
+[2024-09-16T00:18:16.852+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  1.16s           2024-09-16T00:18:01                      12
+/opt/airflow/dags/__init__.py                                    0           0  1.05s           2024-09-16T00:18:01                       3
+================================================================================
+[2024-09-16T00:18:47.227+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  0.96s           2024-09-16T00:18:33                      12
+/opt/airflow/dags/__init__.py                                    0           0  0.84s           2024-09-16T00:18:32                       3
+================================================================================
+[2024-09-16T00:19:17.796+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  1.14s           2024-09-16T00:19:04                      12
+/opt/airflow/dags/__init__.py                                    0           0  1.03s           2024-09-16T00:19:04                       3
+================================================================================
+[2024-09-16T00:19:48.207+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  0.95s           2024-09-16T00:19:36                      12
+/opt/airflow/dags/__init__.py                                    0           0  0.86s           2024-09-16T00:19:36                       3
+================================================================================
+[2024-09-16T00:20:18.602+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  0.96s           2024-09-16T00:20:07                      12
+/opt/airflow/dags/__init__.py                                    0           0  0.82s           2024-09-16T00:20:07                       3
+================================================================================
+[2024-09-16T00:20:49.035+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  3.97s           2024-09-16T00:20:41                      12
+/opt/airflow/dags/__init__.py                                    0           0  3.69s           2024-09-16T00:20:41                       3
+================================================================================
+[2024-09-16T00:20:58.173+0000] {manager.py:832} INFO - Searching for files in /opt/airflow/dags
+[2024-09-16T00:20:58.486+0000] {manager.py:835} INFO - There are 2 files in /opt/airflow/dags
+[2024-09-16T00:21:19.837+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/__init__.py                                    0           0  0.97s           2024-09-16T00:21:12                       3
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  0.94s           2024-09-16T00:21:13                      12
+================================================================================
+[2024-09-16T00:21:50.395+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/__init__.py                                    0           0  1.37s           2024-09-16T00:21:44                       3
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  1.10s           2024-09-16T00:21:45                      12
+================================================================================
+[2024-09-16T00:22:20.985+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  1.17s           2024-09-16T00:22:17                      12
+/opt/airflow/dags/__init__.py                                    0           0  1.04s           2024-09-16T00:22:15                       3
+================================================================================
+[2024-09-16T00:22:51.732+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/__init__.py                                    0           0  1.49s           2024-09-16T00:22:47                       3
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  1.47s           2024-09-16T00:22:48                      12
+================================================================================
+[2024-09-16T00:23:22.267+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/__init__.py                                    0           0  1.06s           2024-09-16T00:23:19                       3
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  1.05s           2024-09-16T00:23:20                      12
+================================================================================
+[2024-09-16T00:23:52.821+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  1.22s           2024-09-16T00:23:51                      12
+/opt/airflow/dags/__init__.py                                    0           0  1.01s           2024-09-16T00:23:50                       3
+================================================================================
+[2024-09-16T00:24:23.278+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/__init__.py                                    0           0  1.11s           2024-09-16T00:24:22                       3
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  0.94s           2024-09-16T00:24:23                      12
+================================================================================
+[2024-09-16T00:24:53.685+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py    599  0.01s             1           0  0.94s           2024-09-16T00:24:23                      12
+/opt/airflow/dags/__init__.py                                    0           0  0.85s           2024-09-16T00:24:53                       3
+================================================================================
+[2024-09-16T00:25:24.191+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  1.00s           2024-09-16T00:24:54                      12
+/opt/airflow/dags/__init__.py             607  0.01s             0           0  0.85s           2024-09-16T00:24:53                       3
+================================================================================
+[2024-09-16T00:25:54.549+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  0.97s           2024-09-16T00:25:26                      12
+/opt/airflow/dags/__init__.py                                    0           0  0.90s           2024-09-16T00:25:25                       3
+================================================================================
+[2024-09-16T00:25:58.628+0000] {manager.py:832} INFO - Searching for files in /opt/airflow/dags
+[2024-09-16T00:25:58.805+0000] {manager.py:835} INFO - There are 2 files in /opt/airflow/dags
+[2024-09-16T00:26:25.271+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  1.08s           2024-09-16T00:25:57                      12
+/opt/airflow/dags/__init__.py                                    0           0  0.99s           2024-09-16T00:25:56                       3
+================================================================================
+[2024-09-16T00:26:55.805+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  1.29s           2024-09-16T00:26:29                      12
+/opt/airflow/dags/__init__.py                                    0           0  0.92s           2024-09-16T00:26:28                       3
+================================================================================
+[2024-09-16T00:27:26.350+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  1.11s           2024-09-16T00:27:01                      12
+/opt/airflow/dags/__init__.py                                    0           0  1.01s           2024-09-16T00:26:59                       3
+================================================================================
+[2024-09-16T00:27:56.682+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/__init__.py                                    0           0  0.92s           2024-09-16T00:27:31                       3
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  0.91s           2024-09-16T00:27:32                      12
+================================================================================
+[2024-09-16T00:28:22.065+0000] {manager.py:1302} WARNING - Skipping processing of missing file: /opt/airflow/dags/__init__.py
+[2024-09-16T00:28:27.151+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  0.97s           2024-09-16T00:28:03                      12
+================================================================================
+[2024-09-16T00:28:57.685+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.15s           2024-09-16T00:28:34                       3
+================================================================================
+[2024-09-16T00:29:28.190+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.21s           2024-09-16T00:29:05                       5
+================================================================================
+[2024-09-16T00:29:58.688+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.17s           2024-09-16T00:29:35                       5
+================================================================================
+[2024-09-16T00:30:29.228+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.14s           2024-09-16T00:30:05                       5
+================================================================================
+[2024-09-16T00:30:58.651+0000] {manager.py:832} INFO - Searching for files in /opt/airflow/dags
+[2024-09-16T00:30:58.958+0000] {manager.py:835} INFO - There are 1 files in /opt/airflow/dags
+[2024-09-16T00:31:00.053+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.15s           2024-09-16T00:30:36                       5
+================================================================================
+[2024-09-16T00:31:30.468+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.14s           2024-09-16T00:31:07                       5
+================================================================================
+[2024-09-16T00:32:00.999+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.16s           2024-09-16T00:31:37                       5
+================================================================================
+[2024-09-16T00:32:31.403+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.14s           2024-09-16T00:32:08                       5
+================================================================================
+[2024-09-16T00:33:01.839+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.13s           2024-09-16T00:32:38                       5
+================================================================================
+[2024-09-16T00:33:32.276+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.17s           2024-09-16T00:33:09                       5
+================================================================================
+[2024-09-16T00:34:10.844+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.24s           2024-09-16T00:34:10                       5
+================================================================================
+[2024-09-16T00:34:41.441+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.23s           2024-09-16T00:34:40                       5
+================================================================================
+[2024-09-16T00:35:12.031+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.18s           2024-09-16T00:35:11                       5
+================================================================================
+[2024-09-16T00:35:42.592+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.15s           2024-09-16T00:35:41                       5
+================================================================================
+[2024-09-16T00:35:58.813+0000] {manager.py:832} INFO - Searching for files in /opt/airflow/dags
+[2024-09-16T00:35:59.119+0000] {manager.py:835} INFO - There are 1 files in /opt/airflow/dags
+[2024-09-16T00:36:13.393+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.15s           2024-09-16T00:36:12                       5
+================================================================================
+[2024-09-16T00:36:43.945+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.20s           2024-09-16T00:36:42                       5
+================================================================================
+[2024-09-16T00:37:14.385+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.18s           2024-09-16T00:37:13                       5
+================================================================================
+[2024-09-16T00:37:44.937+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.15s           2024-09-16T00:37:43                       5
+================================================================================
+[2024-09-16T00:38:15.391+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.19s           2024-09-16T00:38:14                       5
+================================================================================
+[2024-09-16T00:38:45.850+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.15s           2024-09-16T00:38:44                       5
+================================================================================
+[2024-09-16T00:39:16.362+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           1           0  6.09s           2024-09-16T00:39:00                      34
+================================================================================
+[2024-09-16T00:39:30.929+0000] {manager.py:468} INFO - Exiting gracefully upon receiving signal 15
+[2024-09-16T00:39:30.940+0000] {manager.py:468} INFO - Exiting gracefully upon receiving signal 15
+[2024-09-16T00:42:04.559+0000] {manager.py:486} INFO - Processing files using up to 2 processes at a time 
+[2024-09-16T00:42:04.563+0000] {manager.py:487} INFO - Process each file at most once every 30 seconds
+[2024-09-16T00:42:04.567+0000] {manager.py:488} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-09-16T00:42:04.569+0000] {manager.py:832} INFO - Searching for files in /opt/airflow/dags
+[2024-09-16T00:42:05.117+0000] {manager.py:835} INFO - There are 1 files in /opt/airflow/dags
+[2024-09-16T00:42:07.235+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                 PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run      Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  ----------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py     67  0.37s             0           0                                                   0
+================================================================================
+[2024-09-16T00:42:37.738+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.74s           2024-09-16T00:42:07                       3
+================================================================================
+[2024-09-16T00:43:08.588+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  3.61s           2024-09-16T00:42:43                       5
+================================================================================
+[2024-09-16T00:43:38.835+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  1.92s           2024-09-16T00:43:16                       5
+================================================================================
+[2024-09-16T00:44:09.343+0000] {manager.py:1008} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+--------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/opt/airflow/dags/dag_etl_cocktails.py                           0           1  0.24s           2024-09-16T00:43:47                       5
+================================================================================
+[2024-09-16T00:44:09.659+0000] {manager.py:468} INFO - Exiting gracefully upon receiving signal 15

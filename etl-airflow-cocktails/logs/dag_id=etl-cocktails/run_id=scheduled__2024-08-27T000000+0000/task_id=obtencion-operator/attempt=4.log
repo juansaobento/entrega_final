@@ -1,0 +1,23 @@
+[2024-09-16T00:02:26.679+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-09-16T00:02:26.885+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: etl-cocktails.obtencion-operator scheduled__2024-08-27T00:00:00+00:00 [queued]>
+[2024-09-16T00:02:26.893+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: etl-cocktails.obtencion-operator scheduled__2024-08-27T00:00:00+00:00 [queued]>
+[2024-09-16T00:02:26.894+0000] {taskinstance.py:2865} INFO - Starting attempt 4 of 4
+[2024-09-16T00:02:26.907+0000] {taskinstance.py:2888} INFO - Executing <Task(PythonOperator): obtencion-operator> on 2024-08-27 00:00:00+00:00
+[2024-09-16T00:02:26.916+0000] {warnings.py:112} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:70: DeprecationWarning: This process (pid=86) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2024-09-16T00:02:26.918+0000] {standard_task_runner.py:72} INFO - Started process 91 to run task
+[2024-09-16T00:02:26.918+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'etl-cocktails', 'obtencion-operator', 'scheduled__2024-08-27T00:00:00+00:00', '--job-id', '159', '--raw', '--subdir', 'DAGS_FOLDER/dag_etl_cocktails.py', '--cfg-path', '/tmp/tmpbyejobic']
+[2024-09-16T00:02:26.921+0000] {standard_task_runner.py:105} INFO - Job 159: Subtask obtencion-operator
+[2024-09-16T00:02:26.982+0000] {task_command.py:467} INFO - Running <TaskInstance: etl-cocktails.obtencion-operator scheduled__2024-08-27T00:00:00+00:00 [running]> on host 84e286ef6159
+[2024-09-16T00:02:27.096+0000] {taskinstance.py:3131} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='juansaobento' AIRFLOW_CTX_DAG_ID='etl-cocktails' AIRFLOW_CTX_TASK_ID='obtencion-operator' AIRFLOW_CTX_EXECUTION_DATE='2024-08-27T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='4' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-08-27T00:00:00+00:00'
+[2024-09-16T00:02:27.098+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2024-09-16T00:02:27.877+0000] {python.py:240} INFO - Done. Returned value was:   idDrink    strDrink  ... strCreativeCommonsConfirmed         dateModified
+0   12910  Egg Nog #4  ...                          No  2016-07-18 22:02:27
+
+[1 rows x 51 columns]
+[2024-09-16T00:02:27.978+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-09-16T00:02:27.979+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=etl-cocktails, task_id=obtencion-operator, run_id=scheduled__2024-08-27T00:00:00+00:00, execution_date=20240827T000000, start_date=20240916T000226, end_date=20240916T000227
+[2024-09-16T00:02:28.023+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2024-09-16T00:02:28.048+0000] {taskinstance.py:3900} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2024-09-16T00:02:28.052+0000] {local_task_job_runner.py:245} INFO - ::endgroup::
